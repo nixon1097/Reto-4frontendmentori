@@ -13,7 +13,7 @@ function App() {
       <div className="container-target">
         <div className="conatiner-img">
           <img
-            src="./assets/images/avatar-jessica.jpeg"
+            src="./images/avatar-jessica.jpeg"
             alt="Avatar img the jessica Randa"
           />
         </div>
